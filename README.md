@@ -5,6 +5,7 @@ A project to demostrate core fundamentals of Go programming language
 Install Go lang by visiting the language site: https://golang.org/doc/install.
 To execute program on terminal/CMD:
 - go run main.go
+- install Go plugin in WebStorm for development or use Go IDE: http://go-ide.com/
 
 ### License
 ```
